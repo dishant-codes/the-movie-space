@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/the-movie-space/static/css/main.4ac399b0.chunk.css",
+    "main.js": "/the-movie-space/static/js/main.49acb355.chunk.js",
+    "main.js.map": "/the-movie-space/static/js/main.49acb355.chunk.js.map",
+    "runtime-main.js": "/the-movie-space/static/js/runtime-main.6724acb7.js",
+    "runtime-main.js.map": "/the-movie-space/static/js/runtime-main.6724acb7.js.map",
+    "static/js/2.fd4b04de.chunk.js": "/the-movie-space/static/js/2.fd4b04de.chunk.js",
+    "static/js/2.fd4b04de.chunk.js.map": "/the-movie-space/static/js/2.fd4b04de.chunk.js.map",
+    "static/js/3.3f86ac8b.chunk.js": "/the-movie-space/static/js/3.3f86ac8b.chunk.js",
+    "static/js/3.3f86ac8b.chunk.js.map": "/the-movie-space/static/js/3.3f86ac8b.chunk.js.map",
+    "index.html": "/the-movie-space/index.html",
+    "static/css/main.4ac399b0.chunk.css.map": "/the-movie-space/static/css/main.4ac399b0.chunk.css.map",
+    "static/js/2.fd4b04de.chunk.js.LICENSE.txt": "/the-movie-space/static/js/2.fd4b04de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6724acb7.js",
+    "static/js/2.fd4b04de.chunk.js",
+    "static/css/main.4ac399b0.chunk.css",
+    "static/js/main.49acb355.chunk.js"
+  ]
+}
