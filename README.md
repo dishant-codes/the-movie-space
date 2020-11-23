@@ -63,6 +63,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+  "homepage": "https://dishu-87.github.io/the-movie-space",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
