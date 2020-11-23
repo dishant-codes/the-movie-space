@@ -38,6 +38,7 @@ nav{
 h2{
   font-family: 'Carter One', cursive;
 }
+
 .search:focus{
   outline: 0;
 }
